@@ -1,0 +1,4 @@
+[project]
+name = "cpu-cracker"
+version = "1"
+dependencies = []
